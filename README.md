@@ -14,7 +14,7 @@ The explosion spritesheet was released into the public domain by [StumpyStrust](
 
 
 ## References
-None
+Used code from exercise 2c
 
 ## Future Development
 Add another enemy, change assets, change background, add sound and music
